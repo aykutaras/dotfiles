@@ -1,5 +1,6 @@
 #! /bin/bash
 
+# https://gist.github.com/P7h/91e14096374075f5316e#file-tmux_build_from_source_ubuntu-sh
 # Steps to build and install tmux from source on Ubuntu.
 # Takes < 25 seconds on EC2 env [even on a low-end config instance].
 VERSION=2.6

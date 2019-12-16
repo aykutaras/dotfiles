@@ -21,7 +21,6 @@ sudo mv tmux-${VERSION} /usr/local/src
 ## Logout and login to the shell again and run.
 
 sudo ln -S /usr/local/bin/tmux /usr/local/src/tmux-2.6/tmux
-cp .tmux.conf ~/
 
 # Verify
 tmux -V

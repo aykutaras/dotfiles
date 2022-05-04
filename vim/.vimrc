@@ -7,5 +7,4 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 set background=dark
-
-colorscheme solarized
+set re=0

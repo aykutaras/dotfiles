@@ -8,10 +8,4 @@ curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
 git clone https://github.com/scrooloose/nerdtree.git ~/.vim/bundle/nerdtree
 git clone https://github.com/Xuyuanp/nerdtree-git-plugin.git ~/.vim/bundle/nerdtree-git-plugin
 
-git clone git://github.com/chase/vim-ansible-yaml.git ~/.vim/bundle/vim-ansible-yaml
-
-git clone git://github.com/altercation/vim-colors-solarized.git ~/.vim/bundle/vim-colors-solarized
-
-git clone https://github.com/fatih/vim-go.git ~/.vim/bundle/vim-go
-
-git clone https://github.com/othree/yajs.vim ~/.vim/bundle/yajs
+git clone https://github.com/chase/vim-ansible-yaml.git ~/.vim/bundle/vim-ansible-yaml

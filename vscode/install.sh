@@ -13,7 +13,6 @@ code --install-extension hashicorp.terraform
 code --install-extension mindaro-dev.file-downloader
 code --install-extension mindaro.mindaro
 code --install-extension ms-azuretools.vscode-docker
-code --install-extension ms-vscode-remote.remote-containers
 code --install-extension ms-vscode.js-debug-companion
 code --install-extension ms-vscode.references-view
 code --install-extension redhat.vscode-yaml
